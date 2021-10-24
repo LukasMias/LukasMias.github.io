@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  <ul>
+<b>April 2018 –  Expected April 2022</b>: Ph.D in Mathematics, University of Technology Delft, Netherlands.<br>
+<b>Project title</b>: Cohomology and Representation Theory of Inﬁnite-Dimensional Lie Groups.<br>
+<b>Thesis advisor</b>: Dr. Bas Janssens.<br>
 
-Work experience
+<b>August 2015 – April 2018</b>: M.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
+<b>Thesis title</b>: Invariant Hochschild Cohomology. <br>
+<b>Thesis advisor</b>: Dr. Stefan Waldmann.<br>
+
+<b>August 2015 – April 2018</b>: B.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
+<b>Thesis title</b>: Applications of SU(2) generalized coherent states. <br>
+<b>Thesis Advisor</b>: Dr. Thorsten Ohl.<br>
+</ul>
+
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  <ul>
+<b>Winter 2019 - Winter 2021:</b> Exercise Classes in Real Analysis. <br>
+Teaching assistant, Bachelor course, University of Technology Delft.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<b>Winter 2018 - Winter 2021:</b> Exercise Classes in Applied Functional Analysis. <br>
+Teaching assistant, Master courses, University of Technology Delft.
+
+<b>Summer 2014 – Winter 2017:</b> Exercise Classes in Analysis. <br>
+Teaching assistant, various Bachelor courses,  Julius Maximilian University of Würzburg.
+</ul>
+
   
-Skills
+Talks
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  <ul>
+  <b>Continuous Lie Algebra Homology of Gauge Algebras.</b> <br>
+“Finite-inﬁnite workshop”, Vienna, August 2021.
+  
+<b>Various Talks on Quantization, Localization & Cohomology of Gauge Algebras.</b> <br>
+Workshops “Math in the Mill 2019 - 2021”, University of Würzburg.
+  
+<b>Formal Deformation Theory and Invariant Hochschild Cohomology.</b> <br>
+Seminar “Analysis and Applications”, Technical University of Delft, September 2018.
+</ul>
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
