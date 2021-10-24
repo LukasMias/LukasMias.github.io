@@ -45,11 +45,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Skills
+Language Skills
 ======
 <ul>
   <li><b> German:</b> Native </li>
   <li><b> English:</b> Excellent (C2) </li>
   <li><b> Dutch:</b> Conversational (B1+/B2) </li>
   <li><b> Finnish:</b> Beginner (A1) </li>
+</ul>
+
+Other
+======
+<ul>
+  <li>Proﬁciency in Java, Python, C</li>
+  <li>Experience with collaboration tools such as Git and Microsoft Teams</li>
 </ul>
