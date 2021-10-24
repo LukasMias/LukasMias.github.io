@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my website! My name is Lukas Miaskiwskyi, mathematical physicist by training, and this is my online presence.
-Originally from Germany, I moved to the Netherlands in 2018 to start my PhD here under supervision of Bas Janssens, on the topic of cohomology & projective representation theory of infinite-dimensional Lie algebras of geometric origin – or, in less scary (but still a little scary) terms: the mathematics of symmetries in quantum systems. 
+Originally from Germany, I moved to the Netherlands in 2018 to start my PhD here under supervision of Prof. Dr. Bas Janssens, on the topic of cohomology & projective representation theory of infinite-dimensional Lie algebras of geometric origin – or, in less scary (but still a little scary) terms: the mathematics of symmetries in quantum systems. 
 <hr>
 My research interests include, but are not limited to:
 <ul>
