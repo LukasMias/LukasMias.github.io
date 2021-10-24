@@ -14,16 +14,16 @@ Education
   <ul>
 <li><b>April 2018 –  Expected April 2022</b>: Ph.D in Mathematics, University of Technology Delft, Netherlands. <br>
 <b>Project title</b>: Cohomology and Representation Theory of Inﬁnite-Dimensional Lie Groups.<br>
-<b>Thesis advisor</b>: Dr. Bas Janssens. </li> 
+<b>Thesis advisor</b>: Prof. Dr. Bas Janssens. </li> 
 
 
 <li><b>August 2015 – April 2018</b>: M.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
 <b>Thesis title</b>: Invariant Hochschild Cohomology. <br>
-<b>Thesis advisor</b>: Dr. Stefan Waldmann.<br> </li> 
+<b>Thesis advisor</b>: Prof. Dr. Stefan Waldmann.<br> </li> 
 
 <li><b>August 2015 – April 2018</b>: B.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
 <b>Thesis title</b>: Applications of SU(2) generalized coherent states. <br>
-<b>Thesis advisor</b>: Dr. Thorsten Ohl.<br> </li> 
+<b>Thesis advisor</b>: Prof. Dr. Thorsten Ohl.<br> </li> 
 </ul>
 
 
