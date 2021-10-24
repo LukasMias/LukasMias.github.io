@@ -1,5 +1,5 @@
 ---
-title: "Continuous Cohomology of Gauge Algebras and Bornological Loday-Quillen-Tsygan Theorems"
+title: "Work in Progess: Continuous Cohomology of Gauge Algebras and Bornological Loday-Quillen-Tsygan Theorems"
 collection: publications
 permalink: /publication/2021-loday-quillen-tsygan
 date: 2021-11-01
