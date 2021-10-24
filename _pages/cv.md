@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  <ul>
+<li><b>April 2018 –  Expected April 2022</b>: Ph.D in Mathematics, University of Technology Delft, Netherlands. <br>
+<b>Project title</b>: Cohomology and Representation Theory of Inﬁnite-Dimensional Lie Groups.<br>
+<b>Thesis advisor</b>: Dr. Bas Janssens. </li> 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<li><b>August 2015 – April 2018</b>: M.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
+<b>Thesis title</b>: Invariant Hochschild Cohomology. <br>
+<b>Thesis advisor</b>: Dr. Stefan Waldmann.<br> </li> 
+
+<li><b>August 2015 – April 2018</b>: B.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
+<b>Thesis title</b>: Applications of SU(2) generalized coherent states. <br>
+<b>Thesis Advisor</b>: Dr. Thorsten Ohl.<br> </li> 
+</ul>
+
 
 Publications
 ======
@@ -54,6 +45,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+<ul>
+  <li><b> German:</b> Native </li>
+  <li><b> English:</b> Excellent (C2) </li>
+  <li><b> Dutch:</b> Conversational (B1+/B2) </li>
+  <li><b> Finnish:</b> Beginner (A1) </li>
+</ul>
