@@ -3,6 +3,7 @@ title: "Continuous Cohomology of Gauge Algebras and Bornological Loday-Quillen-T
 collection: publications
 permalink: /publication/2021-loday-quillen-tsygan
 date: 2021-01-01
+venue: 'Work in Progress'
 ---
 
 This paper is a work in progress, to be uploaded to arXiv in November 2021. A draft version from 24-10-2021 is available here: <a href="../files/Loday-Quillen-24-10.pdf">Click!</a>
