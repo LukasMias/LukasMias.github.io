@@ -2,9 +2,8 @@
 title: "Exercise Classes in Analysis"
 collection: teaching
 type: "Bachelor course"
-permalink: /teaching/2014-teaching-1
+permalink: /teaching/teaching-1
 venue: "Julius Maximilian University of Würzburg"
-date: 2014-01-01
 location: "Germany"
 ---
 Teaching assistant from Summer 2014 to Winter 2017 in various Bachelor courses on Analysis (Analysis I, Analysis II & Advanced Analysis).
