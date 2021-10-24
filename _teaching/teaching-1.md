@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant in Analysis, Julius-Maximilans University"
+title: "Teaching Assistant in Analysis, Julius-Maximilans University of Würzburg"
 collection: teaching
 type: "Bachelor course"
 permalink: /teaching/teaching-1
