@@ -23,7 +23,7 @@ Education
 
 <li><b>August 2015 – April 2018</b>: B.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
 <b>Thesis title</b>: Applications of SU(2) generalized coherent states. <br>
-<b>Thesis Advisor</b>: Dr. Thorsten Ohl.<br> </li> 
+<b>Thesis advisor</b>: Dr. Thorsten Ohl.<br> </li> 
 </ul>
 
 
