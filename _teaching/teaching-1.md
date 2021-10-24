@@ -1,9 +1,8 @@
 ---
-title: "Exercise Classes in Analysis"
+title: "Teaching Assistant in Analysis, Julius-Maximilans University"
 collection: teaching
 type: "Bachelor course"
 permalink: /teaching/teaching-1
-venue: "Julius Maximilian University of Würzburg"
 date: 01-01-2014
 location: "Germany"
 ---
