@@ -2,7 +2,7 @@
 title: "Continuous Cohomology of Gauge Algebras and Bornological Loday-Quillen-Tsygan Theorems"
 collection: publications
 permalink: /publication/2021-loday-quillen-tsygan
-date: 2021-01-01
+date: 2021-11-01
 venue: 'Work in Progress'
 ---
 
