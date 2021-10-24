@@ -1,5 +1,5 @@
 ---
-title: "An Exposition on Gelfand-Fuks Cohomology"
+title: "Work in Progess: An Exposition on Gelfand-Fuks Cohomology"
 collection: publications
 permalink: /publication/2021-gelfand-fuks-exposition
 date: 2021-11-01
