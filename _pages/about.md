@@ -13,7 +13,7 @@ After finishing my M.Sc. at the Julius Maximilian University of Würzburg in 201
 
 <hr>
 
-Next to mathematics, I am also passionate about <b>computer science</b> and <b>programming</b>. Parallel to my PhD, I have familiarized myself with the theory of <b>algorithms & data structures</b> and have a solid foundation in frameworks, libraries and languages such as Java & JavaFX, Python & NumPy, C and basics of web development (Javascript, (S)CSS, HTML).
+Next to mathematics, I am also passionate about <b>computer science</b> and <b>programming</b>. Parallel to my PhD, I have familiarized myself with the theory of <b>algorithms & data structures</b> and have a solid foundation in frameworks, libraries and languages such as Java & JavaFX, Python & NumPy, C, and the basics of web development (Javascript, (S)CSS, HTML).
 
 <hr>
 
