@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Work experience
 ======
   <ul>
 <li><b>April 2022 –  Present</b>: Risk Analyst in the Young Professionals in Advanced Analytics program, Rabobank, Utrecht, Netherlands.<br>
-<b>Team</b>: Capital Adequacy and Scenario Analyses.
+<b>Team</b>: Capital Adequacy and Scenario Analyses.</li> 
 </ul>
 
 Education
