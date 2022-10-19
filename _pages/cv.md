@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
   <ul>
-<li><b>April 2018 –  Expected April 2022</b>: Ph.D in Mathematics, University of Technology Delft, Netherlands. <br>
-<b>Project title</b>: Cohomology and Representation Theory of Inﬁnite-Dimensional Lie Groups.<br>
+<li><b>April 2018 –  March 2022</b>: PhD in Mathematics, University of Technology Delft, Netherlands. <br>
+<b>Thesis title</b>: Cohomological local-to-global principles and integration in finite- and infinite-dimensional Lie theory.<br>
 <b>Thesis advisor</b>: Prof. Dr. Bas Janssens. </li> 
 
 
@@ -50,13 +50,13 @@ Language Skills
 <ul>
   <li><b> German:</b> Native </li>
   <li><b> English:</b> Excellent (C2) </li>
-  <li><b> Dutch:</b> Conversational (B1+/B2) </li>
+  <li><b> Dutch:</b> Conversational (B2+) </li>
   <li><b> Finnish:</b> Beginner (A1) </li>
 </ul>
 
 Other
 ======
 <ul>
-  <li>Proﬁciency in Java, Python, C</li>
-  <li>Experience with collaboration tools such as Git and Microsoft Teams</li>
+  <li>Proﬁciency in: Java, Python, C, SQL, Dataiku, and more.</li>
+  <li>Experience with collaboration tools such as Git and Microsoft Teams.</li>
 </ul>

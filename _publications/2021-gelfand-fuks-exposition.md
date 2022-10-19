@@ -1,11 +1,11 @@
 ---
-title: "Work in Progess: An Exposition on Gelfand-Fuks Cohomology"
+title: "A local-to-global analysis of Gelfand-Fuks cohomology"
 collection: publications
 permalink: /publication/2021-gelfand-fuks-exposition
-date: 2021-11-01
-venue: Work in Progress
+date: 2022-02-19
+venue: arXiv
 ---
 
-This paper is a work in progress, to be uploaded to arXiv in November 2021. A draft version from 24-10-2021 is available here: <a href="../files/Gelfand-Fuks-24-10.pdf">Click!</a>
+This paper is also available on arXiv: [Click!](https://arxiv.org/abs/2202.09666)
 
-<b>Abstract:</b> In this document, we lay out a streamlined, detailed and relatively elementary path to the fundamental results of continuous cohomology of the Lie algebra cohomology of smooth vector fields with trivial coefficients, guided by the strategies of Gelfand and Fuks. We make no claim to originality of the results, or exhaustiveness with respect to the literature. Other than filling out unmentioned details and small holes in the proofs from the literature, the main novelty of this paper is the direct construction of the Gelfand-Fuks spectral sequence for diagonal cohomology using elementary techniques from the theory of factorization algebras.
+<b>Abstract:</b> We present a novel proof technique to construct the Gelfand-Fuks spectral sequence for diagonal Chevalley-Eilenberg cohomology of vector fields on a smooth manifold, performing a local-to-global analysis through a notion of generalized good covers from the theory of factorization algebras and cosheaves. This approach yields a unified way to deal with the problem of comparing "sheaf-like" data over different Cartesian powers of the manifold, and is easily generalized to the study of other cohomology theories associated to geometric objects. Independently, we lay out a detailed and easily accessible exposition on the continuous Chevalley-Eilenberg cohomology of formal vector fields and of vector fields on Euclidean space, modernizing and elaborating on well-established literature on the subject by Bott, Fuks, and Gelfand.
