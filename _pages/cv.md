@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+Work experience
+======
+  <ul>
+<li><b>April 2022 –  Present</b>: Risk Analyst in the Young Professionals in Advanced Analytics program, Rabobank, Utrecht, Netherlands.<br>
+<b>Team</b>: Capital Adequacy and Scenario Analyses.
+</ul>
 
 Education
 ======
@@ -16,16 +22,11 @@ Education
 <b>Thesis title</b>: Cohomological local-to-global principles and integration in finite- and infinite-dimensional Lie theory.<br>
 <b>Thesis advisor</b>: Prof. Dr. Bas Janssens. </li> 
 
-My thesis is available here on the TU Delft repository: <a href="https://research.tudelft.nl/en/publications/cohomological-local-to-global-principles-and-integration-in-finit">Click!</a> 
-<br>
-My propositions are available here: <a href="../files/miaskiwskyi-propositions.pdf">Click!</a>
-
-
 <li><b>August 2015 – April 2018</b>: M.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
 <b>Thesis title</b>: Invariant Hochschild Cohomology. <br>
 <b>Thesis advisor</b>: Prof. Dr. Stefan Waldmann.<br> </li> 
 
-<li><b>August 2015 – April 2018</b>: B.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
+<li><b>October 2012 – August 2015</b>: B.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
 <b>Thesis title</b>: Applications of SU(2) generalized coherent states. <br>
 <b>Thesis advisor</b>: Prof. Dr. Thorsten Ohl.<br> </li> 
 </ul>
