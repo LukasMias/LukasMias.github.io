@@ -16,7 +16,7 @@ Education
 <b>Thesis title</b>: Cohomological local-to-global principles and integration in finite- and infinite-dimensional Lie theory.<br>
 <b>Thesis advisor</b>: Prof. Dr. Bas Janssens. </li> 
 
-My thesis is available here on the TU Delft repository: [Click!](https://research.tudelft.nl/en/publications/cohomological-local-to-global-principles-and-integration-in-finit)
+My thesis is available here on the TU Delft repository: <a href="https://research.tudelft.nl/en/publications/cohomological-local-to-global-principles-and-integration-in-finit">Click!</a> 
 <br>
 My propositions are available here: <a href="../files/miaskiwskyi-propositions.pdf">Click!</a>
 
