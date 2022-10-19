@@ -16,6 +16,10 @@ Education
 <b>Thesis title</b>: Cohomological local-to-global principles and integration in finite- and infinite-dimensional Lie theory.<br>
 <b>Thesis advisor</b>: Prof. Dr. Bas Janssens. </li> 
 
+My thesis is available here on the TU Delft repository: [Click!](https://research.tudelft.nl/en/publications/cohomological-local-to-global-principles-and-integration-in-finit)
+<br>
+My propositions are available here: <a href="../files/miaskiwskyi-propositions.pdf">Click!</a>
+
 
 <li><b>August 2015 – April 2018</b>: M.Sc. in Mathematical Physics, Julius Maximilian University of Würzburg, Germany.<br>
 <b>Thesis title</b>: Invariant Hochschild Cohomology. <br>
